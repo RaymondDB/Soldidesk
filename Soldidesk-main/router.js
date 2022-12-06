@@ -1,0 +1,1 @@
+AudioParamMap = require('./audio-param-map');
